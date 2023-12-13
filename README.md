@@ -36,6 +36,7 @@ To use GPT-3, set your OpenAI API key in the `game.py` file:
 ```python
 # Set your OpenAI API key here
 openai.api_key = 'YOUR_OPENAI_API_KEY'
+```
 
 ## Contributing
 
